@@ -12,7 +12,7 @@ The project is structured for both **researchers** and **practitioners**, offeri
 
 - ✅ **LiteAE** — Lightweight Autoencoder for feature extraction  
 - ✅ **DeepResNet Blocks** — Efficient residual units with attention  
-- ✅ **EncodDeepResNet** — The lassification model  
+- ✅ **EncodDeepResNet** — The classification model  
 - ✅ Flexible config system for architecture variants  
 - ✅ Custom data augmentation pipeline  
 - ✅ Multi-GPU distributed training (via `MirroredStrategy`)

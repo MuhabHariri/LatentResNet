@@ -1,6 +1,6 @@
 # 🧠 EncodDeepResNet — ImageNet Classifier using LiteAE (Autoencoder) + DeepResNet Blocks
 
-This repository accompanies the paper **"EncodDeepResNet: An Optimized Feature Extraction and Classification Model with Low Computational Cost."**
+This repository accompanies the paper **"EncodDeepResNet: An Optimized Feature Extraction and Classification Model with Low Computational Cost"**
 
 The project is structured for both **researchers** and **practitioners**, offering a clean, modular, and reproducible codebase to experiment with deep learning classification using an autoencoder backbone (LiteAE) and custom DeepResNet blocks.
 

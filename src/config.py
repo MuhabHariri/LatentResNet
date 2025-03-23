@@ -31,7 +31,7 @@ CROP_WIDTH = 160
 #Hyperparameters & Configuration of LiteAE
 INPUT_SHAPE = (224, 224, 3)
 ENCODER_FILTERS = [34, 52, 66]
-DROPOUT_RATE = 0.15
+DROPOUT_RATE = 0.02
 LEAKY_RELU_ALPHA = 0.3
 KERNEL_SIZE = (3, 3)
 STRIDES = (2, 2)
@@ -49,7 +49,7 @@ DEEPRESNET_CONFIG = {
         "kernel_size": (3, 3),
         "strides": (1, 1),
         "additional_layers": 2,
-        "dropout_rate": 0.03,
+        "dropout_rate": 0.02,
         "residual_dropout_rate_1": 0.0,
         "residual_dropout_rate_2": 0.025,
     },
@@ -58,7 +58,7 @@ DEEPRESNET_CONFIG = {
         "kernel_size": (3, 3),
         "strides": (1, 1),
         "additional_layers": 2,
-        "dropout_rate": 0.03,
+        "dropout_rate": 0.02,
         "residual_dropout_rate_1": 0.0,
         "residual_dropout_rate_2": 0.025,
     },
@@ -67,7 +67,7 @@ DEEPRESNET_CONFIG = {
         "kernel_size": (3, 3),
         "strides": (1, 1),
         "additional_layers": 2,
-        "dropout_rate": 0.03,
+        "dropout_rate": 0.02,
         "residual_dropout_rate_1": 0.0,
         "residual_dropout_rate_2": 0.025,
     }

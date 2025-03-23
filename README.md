@@ -10,7 +10,7 @@ The project is structured for both **researchers** and **practitioners**, offeri
 
 ## 📦 Key Features
 
-- ✅ **LiteAE** — Lightweight Autoencoder for feature extraction  
+- ✅ **LiteAE** — Lightweight Autoencoder for Feature Compression and Reconstruction  
 - ✅ **DeepResNet Blocks** — Efficient residual units with attention  
 - ✅ **EncodDeepResNet** — The classification model  
 - ✅ Flexible config system for architecture variants  

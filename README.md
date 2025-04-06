@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ### 3. Prepare Your Dataset
 ```bash
-ImageNet1K/
+Dataset/
 ├── Train/
 │   ├── class_1/
 │   ├── class_2/
@@ -56,8 +56,8 @@ ImageNet1K/
 ```
 Update paths in src/config.py: 
 ```bash
-TRAIN_DIR = r"E:\ImageNet1K\Train"
-VAL_DIR   = r"E:\ImageNet1K\Val"
+TRAIN_DIR = r"E:\Dataset\Train"
+VAL_DIR   = r"E:\Dataset\Val"
 ```
 
 ---

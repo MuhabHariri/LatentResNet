@@ -4,7 +4,7 @@ This repository accompanies the paper **"LatentResNet: An Optimized Underwater F
 
 The project is structured for both **researchers** and **practitioners**, offering a clean, modular, and reproducible codebase to experiment with deep learning classification using an autoencoder backbone (LiteAE) and custom DeepResNet blocks.
 
-> 🏗️ This implementation reflects the **base (large)** version of EncodDeepResNet. To explore other variants, simply adjust the configuration and hyperparameters in `src/config.py`.
+> 🏗️ This implementation reflects the **base (large)** version of LatentResNet. To explore other variants, simply adjust the configuration and hyperparameters in `src/config.py`.
 
 ---
 
@@ -23,10 +23,10 @@ The project is structured for both **researchers** and **practitioners**, offeri
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/MuhabHariri/EncodDeepResNet.git
+git clone https://github.com/MuhabHariri/LatentResNet.git
 ```
 ```bash
-cd EncodDeepResNet
+cd LatentResNet
 ```
 
 

@@ -56,8 +56,8 @@ Dataset/
 ```
 Update paths in src/config.py: 
 ```bash
-TRAIN_DIR = r"E:\Dataset\Train"
-VAL_DIR   = r"E:\Dataset\Val"
+TRAIN_DIR = "\Dataset\Train"
+VAL_DIR   = "\Dataset\Val"
 ```
 
 ---

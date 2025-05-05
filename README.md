@@ -1,6 +1,6 @@
-# 🧠 EncodDeepResNet — ImageNet Classifier using LiteAE (Autoencoder) + DeepResNet Blocks
+# 🧠 LatentResNet — ImageNet Classifier using LiteAE (Autoencoder) + DeepResNet Blocks
 
-This repository accompanies the paper **"EncodDeepResNet: An Optimized Underwater Fish Classification Model with Low Computational Cost"**
+This repository accompanies the paper **"LatentResNet: An Optimized Underwater Fish Classification Model with Low Computational Cost"**
 
 The project is structured for both **researchers** and **practitioners**, offering a clean, modular, and reproducible codebase to experiment with deep learning classification using an autoencoder backbone (LiteAE) and custom DeepResNet blocks.
 
@@ -12,7 +12,7 @@ The project is structured for both **researchers** and **practitioners**, offeri
 
 - ✅ **LiteAE** — Lightweight Autoencoder for Features Compression and Reconstruction  
 - ✅ **DeepResNet Blocks** — Efficient residual units with attention  
-- ✅ **EncodDeepResNet** — The classification model  
+- ✅ **LatentResNet** — The classification model  
 - ✅ Flexible config system for architecture variants  
 - ✅ Custom data augmentation pipeline  
 - ✅ Multi-GPU distributed training (via `MirroredStrategy`)
